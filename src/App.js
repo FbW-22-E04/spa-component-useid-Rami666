@@ -7,7 +7,8 @@ function App() {
         <InputForm label="First Name" type="text"  />
         <InputForm label="Last Name" type="text"  />
         <InputForm label="Email" type="email"  />
-    </div>
+
+    </div> 
   );
 }
 
